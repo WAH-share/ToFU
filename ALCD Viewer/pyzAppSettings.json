@@ -1,0 +1,43 @@
+{
+  "PortCOM_AA": {
+    "PortColor": "LightCyan",
+    "PortTitle": "Port COM MCU",
+    "PortName": "COM4",
+    "BaudRate": 115200,
+    "DataBits": 8,
+    "Parity": "None",
+    "StopBits": "One",
+    "Handshake": "None",
+    "AppendToSend": "AppendCR",
+    "NonVisible": "False",
+    "HexOutput": "False",
+    "MonoFont": "False",
+    "LocalEcho": "False",
+    "StayOnTop": "False",
+    "FilterUseCase": "False",
+    "SendList": [
+      "ESC",
+      "ENTER",
+      "-----Option set to CR only----",
+      "serial_number read",
+      "serial_number write PC128370A2252100001",
+      "adc 24v0",
+      "adc 5v1",
+      "adc 3v3",
+      "version",
+      "health hb off",
+      "fan status",
+      "fan enable",
+      "fan update 100 0",
+      "fan status",
+      "fan update 0 0",
+      "adc 24v0_current",
+      "health safety off",
+      "fan disable",
+      "adc 24v0_current",
+      "fan status",
+      "adc therm_pre",
+      "------END------"
+    ]
+  }
+}
