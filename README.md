@@ -8,12 +8,17 @@ Note : Please let me know if there is any issue.
 
 ## ✨ Intel Hex Viewer
 This Software GUI is designed to load and view Intel Hex file.  
+  
+Intel Hex Viewer Dark mode :  
 ![InteHexDarkmode](https://github.com/WAH-share/ToFU/blob/main/Image/Intel%20Hex%20Viewer%20-%20Dark.png)  
-
+  
+Intel Hex Viewer Dark mode :  
 ![InteHexLightmode](https://github.com/WAH-share/ToFU/blob/main/Image/Intel%20Hex%20Viewer%20-%20Light.png)
 ## ✨ ALCD Viewer
 This software GUI is designed for training purposes.  
 You can use it to explain Alphanumeric LCDs and how they work with certain code examples.  
+  
+ALCD Viewer :  
 ![ALCDviewer](https://github.com/WAH-share/ToFU/blob/main/Image/ALCD%20Viewer.png)
 
 ## ✨ License
