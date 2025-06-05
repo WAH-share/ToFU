@@ -1,6 +1,6 @@
-# **ToFU** <span style="font-size: 18px; font-weight: bold;">(Tools For You)</span>
-###### _Version 0.02-2505_
-###### _2025-06-05 - README.md last update_
+# ToFU
+## :man_teacher: _Tools For You_
+###### _Version 0.02-2505 . - - . 2025-06-05 - README.md last update_
 ## 👋 Hi Everyone..  
 This repository contains a collection of software GUI tools that I have developed specifically for Arduino and microcontroller training purposes.  
 These tools are designed to enhance the learning experience for students and training participants by providing visual interfaces that demonstrate how various hardware and program work.  
