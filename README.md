@@ -1,24 +1,31 @@
 # ToFU
 ## _Tools For You_ :man_teacher:
-###### _Version 0.01-2505_
-###### _2025-05-30 - README.md last update_
-Hi Everyone..  
-This ReadMe is still under development.  
-Note : Please let me know if there is any issue.
+###### _Version 0.02-2505_
+###### _2025-06-05 - README.md last update_
+## 👋 Hi Everyone..  
+This repository contains a collection of software GUI tools that I have developed specifically for Arduino and microcontroller training purposes.  
+These tools are designed to enhance the learning experience for students and training participants by providing visual interfaces that demonstrate how various hardware and program work.  
 
-## ✨ Intel Hex Viewer
+## 🎯 Purpose
+The main goal of this project is to :
+- Simplify the teaching process of Arduino and Microcontroller concepts.
+- Help participants visualize and interact with components like Alphanumeric LCDs, sensors, motors, and more.
+- Provide a hands-on learning environment through intuitive software interfaces.
+
+## 📦 What’s Inside
+- [Intel Hex Viewer.](#Intel-Hex-Viewer) 
+- [ALCD Viewer (Alphanumeric LCD).](#ALCD-Viewer) 
+- {Soon} Seven Segmen Visualisation.
+- {Soon} Relay Visualisation.
+
+## Intel Hex Viewer
 This Software GUI is designed to load and view Intel Hex file.  
-  
-Intel Hex Viewer Dark mode :  
 ![InteHexDarkmode](https://github.com/WAH-share/ToFU/blob/main/Image/Intel%20Hex%20Viewer%20-%20Dark.png)  
-  
-Intel Hex Viewer Dark mode :  
+
 ![InteHexLightmode](https://github.com/WAH-share/ToFU/blob/main/Image/Intel%20Hex%20Viewer%20-%20Light.png)
-## ✨ ALCD Viewer
+## ALCD Viewer
 This software GUI is designed for training purposes.  
 You can use it to explain Alphanumeric LCDs and how they work with certain code examples.  
-  
-ALCD Viewer :  
 ![ALCDviewer](https://github.com/WAH-share/ToFU/blob/main/Image/ALCD%20Viewer.png)
 
 ## ✨ License
