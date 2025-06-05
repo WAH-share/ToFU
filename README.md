@@ -1,5 +1,4 @@
-# ToFU
-## _Tools For You_ :man_teacher:
+# :man_teacher: **ToFU** <span style="font-size: 18px; font-weight: bold;">(Tools For You)</span>
 ###### _Version 0.02-2505_
 ###### _2025-06-05 - README.md last update_
 ## 👋 Hi Everyone..  
